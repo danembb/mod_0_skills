@@ -1,0 +1,13 @@
+Class: DessertMenu
+
+Attributes:
+1. cover_art (string)
+2. price_list (integer)
+3. menu_options (array)
+4. is_acclaimed (boolean)
+
+Methods:
+1. hire_new_artist (updates cover_art attribute)
+2. apply_discount (subtracts 10% from price_list attribute)
+3. add_new_dessert (appends new dessert item to menu_options attribute)
+4. sit_new_critic (changes is_acclaimed attribute)
