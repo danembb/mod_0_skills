@@ -1,0 +1,13 @@
+Instance: FavoriteRestaurantMenu
+
+Attributes:
+1. cover_art: "someart.jpeg"
+2. page_total: 2
+3. menu_options: ["creme brulee", "key lime pie", "cherry pie"]
+4. is_acclaimed: true
+
+Methods:
+1. hire_new_artist: cover_art = "betterart.jpeg"
+2. tear_page: page_total = 1
+3. add_new_dessert: menu_options = ["creme brulee", "key lime pie", "cherry pie", "mochi"]
+4. sit_new_critic: is_acclaimed = false
