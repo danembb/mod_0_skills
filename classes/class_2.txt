@@ -1,0 +1,13 @@
+Class: BathroomFacility
+
+Attributes:
+1. is_clean (boolean)
+2. stall_color (string)
+3. sink_number (integer)
+4. current_users (array)
+
+Methods:
+1. bring_baby (updates is_clean attribute)
+2. repaint_stalls (updates stall_color attribute)
+3. smash_sink (subtracts 1 from sink_number attribute)
+4. eat_beans (appends a user item to the current_users attribute)
