@@ -1,0 +1,13 @@
+Instance: ArbysRestroom
+
+Attributes:
+1. is_clean: true
+2. stall_color: "Red"
+3. sink_number: 3
+4. current_users: ["Janet", "Felicia"]
+
+Methods:
+1. bring_baby: is_clean = false
+2. repaint_stalls: stall_color = "Blue"
+3. smash_sink: sink_number = 2
+4. eat_beans: current_users = ["Janet", "Felicia", "Alex"]
