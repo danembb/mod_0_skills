@@ -1,4 +1,4 @@
-Instance: ArbysRestroom
+Instance: ArbysBathroom
 
 Attributes:
 1. is_clean: true
