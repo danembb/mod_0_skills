@@ -1,0 +1,20 @@
+food = "tonkatsu"
+is_delicious = true
+puts food
+puts is_delicious
+food = "durian"
+puts food
+
+num2 = 2
+num7 = 8
+puts num7 / num2
+
+quotient = num7 / num2
+puts quotient
+
+songs = ["Stuck Inside of Mobile with the Memphis Blues Again", "Swordfishtrombones", "Beef Rap", "Ladders"]
+puts songs
+songs.delete("Beef Rap")
+puts songs
+
+puts food.size
